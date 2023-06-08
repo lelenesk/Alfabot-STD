@@ -13,7 +13,7 @@ https://youtu.be/pK81jXUrq7Y
 
 - Restore the DB
 - Use an SQL Login mapped to Alfabot to get in
-- The vMonthlyView uses SQLNCLI, so you can't try out with this basic settings, but you can run it in Management Studio.
+- The vMonthlySales view uses SQLNCLI, so you can't try out with this basic settings, but you can run it in Management Studio.
 
 
 
